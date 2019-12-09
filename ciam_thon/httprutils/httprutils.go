@@ -10,7 +10,7 @@ import (
 	"net/url"
 	"time"
 
-	"github.com/LoginRadius/go-sdk/lrerror"
+	"io_thon/ciam_thon/lrerror"
 )
 
 type Method string
@@ -92,7 +92,7 @@ func BuildResponse(res *http.Response) (*Response, error) {
 	}
 
 	if res.StatusCode < 200 || res.StatusCode > 299 {
-		err = lrerror.New("LoginradiusRespondedWithError", "Received error response from Loginradius", errors.New(string(body)))
+		err = lrerror.New("IORespondedWithError", "Received error response from IO", errors.New(string(body)))
 	} else {
 		response = Response{
 			StatusCode: res.StatusCode,
