@@ -5,7 +5,7 @@ import (
 	"io_thon/ciam_thon/lrerror"
 )
 
-const domain = "https://api.IO.com"
+const domain = "https:///api.loginradius.io"
 
 type IO struct {
 	Context *Context
