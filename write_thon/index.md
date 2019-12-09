@@ -1,3 +1,5 @@
+# The Next Big Thing in Marketing
+
 Marketing is going to change drastically in 2020. And yes, we mean changes from a competition standpoint. 
 
 After all, it is no rocket science that each year marketing gets more expensive and more competitive. That’s just a given! 
@@ -66,7 +68,7 @@ With 5G coming into the mix very soon, which has been predicted to provide speed
 
 How to leverage this trend: Experiment with an AR app
 
-# 5. More focus on omnichannel delivery
+# 5. More focus on omnichannel delivery.
 
 Omnichannel delivery provides consumers with a consistent experience from touchpoint to touchpoint. For example, if a customer started their interaction with your brand on social media, this experience would continue as the customer moves onto your mobile app and website.
 
@@ -74,7 +76,7 @@ And as the IoT-era will transform more objects into connected devices, customers
 
 How to leverage this trend: Invest in a headless CMS to power your voice-enabled customer experience
 
-# 6. Biometric Authentication will go mainstream
+# 6. Biometric Authentication will go mainstream.
 
 As many corporate breaches have illustrated - and continue to show - traditional passwords are no match for hackers who are adept at breaking into password databases and stealing privileged login credentials. 
 
@@ -82,7 +84,7 @@ For many enterprises out there, the inherent vulnerability of legacy authenticat
 
 Furthermore, because hackers cannot phish biometrics, it can be the most impeccable feature of your identity and access management solution, making a significant contribution to organizational security.
 
-# 7. Increased security measures
+# 7. Increased security measures.
 
 To support the increasing demand for personalization, brands need to attain more data about their consumers. For some, knowing that a brand is holding so much data about them can make them feel nervous.
 
